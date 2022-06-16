@@ -1,2 +1,2 @@
 Hello
-привет git hub и мир
+привет git hub и мир.
